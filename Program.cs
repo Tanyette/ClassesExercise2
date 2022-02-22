@@ -27,6 +27,8 @@ namespace ClassesExercise
             foreach(var vehicle in carList) 
             {
                 Console.WriteLine($"{vehicle.Make} {vehicle.Model} {vehicle.Year}");
+
+                //testing
             }
 
 
